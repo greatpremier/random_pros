@@ -1,0 +1,4 @@
+virtual/
+page_generator/results/
+page_generator/__pycache__
+page_generator/logs

@@ -5,3 +5,4 @@ tensorflow
 tf-keras
 sentencepiece
 accelerate>={ACCELERATE_MIN_VERSION}
+datasets
